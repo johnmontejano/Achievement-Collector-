@@ -8,6 +8,10 @@
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Need Exisisting Photos in order to proceed </string>
+	<key>NSCameraUsageDescription</key>
+	<string>Need camera acess in order to proceed</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
